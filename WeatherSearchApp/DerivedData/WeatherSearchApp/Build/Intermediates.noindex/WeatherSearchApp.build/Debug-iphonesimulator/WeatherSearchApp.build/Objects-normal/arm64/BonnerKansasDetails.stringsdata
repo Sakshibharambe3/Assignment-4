@@ -1,0 +1,80 @@
+{
+  "source": "/Users/sakshibharambe/Documents/University fo Southern California/Web Technology/Assignment/Assignment 4/WeatherSearchApp/WeatherSearchApp/Views/WeatherDetails/BonnerKansasDetails.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Fetching Weather Details For Bonner Springs...",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 39
+        }
+      },
+      {
+        "comment": "",
+        "key": "Fetching Weather Data...",
+        "location": {
+          "startingColumn": 42,
+          "startingLine": 112
+        }
+      },
+      {
+        "comment": "",
+        "key": "Bonner Springs",
+        "location": {
+          "startingColumn": 50,
+          "startingLine": 62
+        }
+      },
+      {
+        "comment": "",
+        "key": "Weather",
+        "location": {
+          "startingColumn": 54,
+          "startingLine": 56
+        }
+      },
+      {
+        "comment": "",
+        "key": "25°F",
+        "location": {
+          "startingColumn": 46,
+          "startingLine": 125
+        }
+      },
+      {
+        "comment": "",
+        "key": "Cloudy",
+        "location": {
+          "startingColumn": 46,
+          "startingLine": 129
+        }
+      },
+      {
+        "comment": "",
+        "key": "Bonner Springs",
+        "location": {
+          "startingColumn": 46,
+          "startingLine": 133
+        }
+      },
+      {
+        "comment": "",
+        "key": "Bonner Springs was Added to the Favorites List",
+        "location": {
+          "startingColumn": 64,
+          "startingLine": 171
+        }
+      },
+      {
+        "comment": "",
+        "key": "Bonner Springs was Removed from the Favorites List",
+        "location": {
+          "startingColumn": 115,
+          "startingLine": 171
+        }
+      }
+    ]
+  },
+  "version": 1
+}

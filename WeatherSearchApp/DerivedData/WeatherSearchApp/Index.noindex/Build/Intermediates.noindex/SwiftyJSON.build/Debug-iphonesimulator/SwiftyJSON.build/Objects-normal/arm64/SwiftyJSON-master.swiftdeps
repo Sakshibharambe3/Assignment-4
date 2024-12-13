@@ -1,0 +1,9 @@
+version: "Apple Swift version 6.0.2 (swiftlang-6.0.2.1.2 clang-1600.0.26.4)"
+options: "e2a6376a797f5b4cb04b2071830da65c370addffc84e4166967e5289595ef7d7"
+build_start_time: [1734062291, 871595000]
+build_end_time: [1734062292, 309985000]
+inputs:
+  ? "/Users/sakshibharambe/Documents/University fo Southern California/Web Technology/Assignment/Assignment 4/WeatherSearchApp/DerivedData/WeatherSearchApp/Index.noindex/Build/Intermediates.noindex/SwiftyJSON.build/Debug-iphonesimulator/SwiftyJSON.build/DerivedSources/resource_bundle_accessor.swift"
+  : [1734062291, 800786743]
+  ? "/Users/sakshibharambe/Documents/University fo Southern California/Web Technology/Assignment/Assignment 4/WeatherSearchApp/DerivedData/WeatherSearchApp/SourcePackages/checkouts/SwiftyJSON/Source/SwiftyJSON/SwiftyJSON.swift"
+  : [1733808120, 481387774]

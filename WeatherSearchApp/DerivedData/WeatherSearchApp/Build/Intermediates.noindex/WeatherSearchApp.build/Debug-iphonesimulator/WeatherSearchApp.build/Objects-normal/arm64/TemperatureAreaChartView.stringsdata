@@ -1,0 +1,64 @@
+{
+  "source": "/Users/sakshibharambe/Documents/University fo Southern California/Web Technology/Assignment/Assignment 4/WeatherSearchApp/WeatherSearchApp/Views/Charts/TemperatureAreaChartView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Temperature Variation by Day",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 20
+        }
+      },
+      {
+        "comment": "",
+        "key": "Day",
+        "location": {
+          "startingColumn": 39,
+          "startingLine": 30
+        }
+      },
+      {
+        "comment": "",
+        "key": "Min Temperature",
+        "location": {
+          "startingColumn": 44,
+          "startingLine": 31
+        }
+      },
+      {
+        "comment": "",
+        "key": "Max Temperature",
+        "location": {
+          "startingColumn": 42,
+          "startingLine": 32
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld",
+        "location": {
+          "startingColumn": 44,
+          "startingLine": 42
+        }
+      },
+      {
+        "comment": "",
+        "key": "%.0f",
+        "location": {
+          "startingColumn": 44,
+          "startingLine": 49
+        }
+      },
+      {
+        "comment": "",
+        "key": "Highcharts iOS",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 64
+        }
+      }
+    ]
+  },
+  "version": 1
+}

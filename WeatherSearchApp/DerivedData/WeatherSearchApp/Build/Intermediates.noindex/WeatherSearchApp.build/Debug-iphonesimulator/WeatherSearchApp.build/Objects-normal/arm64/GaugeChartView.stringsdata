@@ -1,0 +1,16 @@
+{
+  "source": "/Users/sakshibharambe/Documents/University fo Southern California/Web Technology/Assignment/Assignment 4/WeatherSearchApp/WeatherSearchApp/Views/Charts/GaugeChartView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Highcharts iOS",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 93
+        }
+      }
+    ]
+  },
+  "version": 1
+}

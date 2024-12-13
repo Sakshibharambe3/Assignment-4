@@ -1,0 +1,16 @@
+{
+  "source": "/Users/sakshibharambe/Documents/University fo Southern California/Web Technology/Assignment/Assignment 4/WeatherSearchApp/WeatherSearchApp/SearchBar.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Enter a City Name",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 32
+        }
+      }
+    ]
+  },
+  "version": 1
+}

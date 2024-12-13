@@ -1,0 +1,9 @@
+version: "Apple Swift version 6.0.2 (swiftlang-6.0.2.1.2 clang-1600.0.26.4)"
+options: "3f7b6e49891ce522c71aa23faecec0eb278d14a20abbd8cd3dee8baf1ca8b922"
+build_start_time: [1734062291, 871428000]
+build_end_time: [1734062292, 308507000]
+inputs:
+  ? "/Users/sakshibharambe/Documents/University fo Southern California/Web Technology/Assignment/Assignment 4/WeatherSearchApp/DerivedData/WeatherSearchApp/Index.noindex/Build/Intermediates.noindex/Toast.build/Debug-iphonesimulator/Toast.build/DerivedSources/resource_bundle_accessor.swift"
+  : [1734062291, 800553909]
+  ? "/Users/sakshibharambe/Documents/University fo Southern California/Web Technology/Assignment/Assignment 4/WeatherSearchApp/DerivedData/WeatherSearchApp/SourcePackages/checkouts/Toast-Swift/Toast/Toast.swift"
+  : [1733808120, 991892562]

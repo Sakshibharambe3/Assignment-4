@@ -1,0 +1,91 @@
+version: "Apple Swift version 6.0.2 (swiftlang-6.0.2.1.2 clang-1600.0.26.4)"
+options: "79723e7066959d83369303622a5a2f3e6c3b71e59f152d9dd5a50d42591aa282"
+build_start_time: [1734062291, 872573000]
+build_end_time: [1734062292, 309348000]
+inputs:
+  ? "/Users/sakshibharambe/Documents/University fo Southern California/Web Technology/Assignment/Assignment 4/WeatherSearchApp/DerivedData/WeatherSearchApp/Index.noindex/Build/Intermediates.noindex/Alamofire.build/Debug-iphonesimulator/Alamofire.build/DerivedSources/resource_bundle_accessor.swift"
+  : [1734062291, 801818287]
+  ? "/Users/sakshibharambe/Documents/University fo Southern California/Web Technology/Assignment/Assignment 4/WeatherSearchApp/DerivedData/WeatherSearchApp/SourcePackages/checkouts/Alamofire/Source/Alamofire.swift"
+  : [1733808120, 685519632]
+  ? "/Users/sakshibharambe/Documents/University fo Southern California/Web Technology/Assignment/Assignment 4/WeatherSearchApp/DerivedData/WeatherSearchApp/SourcePackages/checkouts/Alamofire/Source/Core/AFError.swift"
+  : [1733808120, 685698921]
+  ? "/Users/sakshibharambe/Documents/University fo Southern California/Web Technology/Assignment/Assignment 4/WeatherSearchApp/DerivedData/WeatherSearchApp/SourcePackages/checkouts/Alamofire/Source/Core/DataRequest.swift"
+  : [1733808120, 685828587]
+  ? "/Users/sakshibharambe/Documents/University fo Southern California/Web Technology/Assignment/Assignment 4/WeatherSearchApp/DerivedData/WeatherSearchApp/SourcePackages/checkouts/Alamofire/Source/Core/DataStreamRequest.swift"
+  : [1733808120, 685917669]
+  ? "/Users/sakshibharambe/Documents/University fo Southern California/Web Technology/Assignment/Assignment 4/WeatherSearchApp/DerivedData/WeatherSearchApp/SourcePackages/checkouts/Alamofire/Source/Core/DownloadRequest.swift"
+  : [1733808120, 686027126]
+  ? "/Users/sakshibharambe/Documents/University fo Southern California/Web Technology/Assignment/Assignment 4/WeatherSearchApp/DerivedData/WeatherSearchApp/SourcePackages/checkouts/Alamofire/Source/Core/HTTPHeaders.swift"
+  : [1733808120, 686218291]
+  ? "/Users/sakshibharambe/Documents/University fo Southern California/Web Technology/Assignment/Assignment 4/WeatherSearchApp/DerivedData/WeatherSearchApp/SourcePackages/checkouts/Alamofire/Source/Core/HTTPMethod.swift"
+  : [1733808120, 686318206]
+  ? "/Users/sakshibharambe/Documents/University fo Southern California/Web Technology/Assignment/Assignment 4/WeatherSearchApp/DerivedData/WeatherSearchApp/SourcePackages/checkouts/Alamofire/Source/Core/Notifications.swift"
+  : [1733808120, 686408289]
+  ? "/Users/sakshibharambe/Documents/University fo Southern California/Web Technology/Assignment/Assignment 4/WeatherSearchApp/DerivedData/WeatherSearchApp/SourcePackages/checkouts/Alamofire/Source/Core/ParameterEncoder.swift"
+  : [1733808120, 686520871]
+  ? "/Users/sakshibharambe/Documents/University fo Southern California/Web Technology/Assignment/Assignment 4/WeatherSearchApp/DerivedData/WeatherSearchApp/SourcePackages/checkouts/Alamofire/Source/Core/ParameterEncoding.swift"
+  : [1733808120, 686703369]
+  ? "/Users/sakshibharambe/Documents/University fo Southern California/Web Technology/Assignment/Assignment 4/WeatherSearchApp/DerivedData/WeatherSearchApp/SourcePackages/checkouts/Alamofire/Source/Core/Protected.swift"
+  : [1733808120, 686792951]
+  ? "/Users/sakshibharambe/Documents/University fo Southern California/Web Technology/Assignment/Assignment 4/WeatherSearchApp/DerivedData/WeatherSearchApp/SourcePackages/checkouts/Alamofire/Source/Core/Request.swift"
+  : [1733808120, 686914116]
+  ? "/Users/sakshibharambe/Documents/University fo Southern California/Web Technology/Assignment/Assignment 4/WeatherSearchApp/DerivedData/WeatherSearchApp/SourcePackages/checkouts/Alamofire/Source/Core/RequestTaskMap.swift"
+  : [1733808120, 687032240]
+  ? "/Users/sakshibharambe/Documents/University fo Southern California/Web Technology/Assignment/Assignment 4/WeatherSearchApp/DerivedData/WeatherSearchApp/SourcePackages/checkouts/Alamofire/Source/Core/Response.swift"
+  : [1733808120, 687136864]
+  ? "/Users/sakshibharambe/Documents/University fo Southern California/Web Technology/Assignment/Assignment 4/WeatherSearchApp/DerivedData/WeatherSearchApp/SourcePackages/checkouts/Alamofire/Source/Core/Session.swift"
+  : [1733808120, 687469235]
+  ? "/Users/sakshibharambe/Documents/University fo Southern California/Web Technology/Assignment/Assignment 4/WeatherSearchApp/DerivedData/WeatherSearchApp/SourcePackages/checkouts/Alamofire/Source/Core/SessionDelegate.swift"
+  : [1733808120, 687577109]
+  ? "/Users/sakshibharambe/Documents/University fo Southern California/Web Technology/Assignment/Assignment 4/WeatherSearchApp/DerivedData/WeatherSearchApp/SourcePackages/checkouts/Alamofire/Source/Core/URLConvertible+URLRequestConvertible.swift"
+  : [1733808120, 687671275]
+  ? "/Users/sakshibharambe/Documents/University fo Southern California/Web Technology/Assignment/Assignment 4/WeatherSearchApp/DerivedData/WeatherSearchApp/SourcePackages/checkouts/Alamofire/Source/Core/UploadRequest.swift"
+  : [1733808120, 687778607]
+  ? "/Users/sakshibharambe/Documents/University fo Southern California/Web Technology/Assignment/Assignment 4/WeatherSearchApp/DerivedData/WeatherSearchApp/SourcePackages/checkouts/Alamofire/Source/Core/WebSocketRequest.swift"
+  : [1733808120, 687919314]
+  ? "/Users/sakshibharambe/Documents/University fo Southern California/Web Technology/Assignment/Assignment 4/WeatherSearchApp/DerivedData/WeatherSearchApp/SourcePackages/checkouts/Alamofire/Source/Extensions/DispatchQueue+Alamofire.swift"
+  : [1733808120, 688099020]
+  ? "/Users/sakshibharambe/Documents/University fo Southern California/Web Technology/Assignment/Assignment 4/WeatherSearchApp/DerivedData/WeatherSearchApp/SourcePackages/checkouts/Alamofire/Source/Extensions/OperationQueue+Alamofire.swift"
+  : [1733808120, 688267518]
+  ? "/Users/sakshibharambe/Documents/University fo Southern California/Web Technology/Assignment/Assignment 4/WeatherSearchApp/DerivedData/WeatherSearchApp/SourcePackages/checkouts/Alamofire/Source/Extensions/Result+Alamofire.swift"
+  : [1733808120, 688370558]
+  ? "/Users/sakshibharambe/Documents/University fo Southern California/Web Technology/Assignment/Assignment 4/WeatherSearchApp/DerivedData/WeatherSearchApp/SourcePackages/checkouts/Alamofire/Source/Extensions/StringEncoding+Alamofire.swift"
+  : [1733808120, 688487516]
+  ? "/Users/sakshibharambe/Documents/University fo Southern California/Web Technology/Assignment/Assignment 4/WeatherSearchApp/DerivedData/WeatherSearchApp/SourcePackages/checkouts/Alamofire/Source/Extensions/URLRequest+Alamofire.swift"
+  : [1733808120, 688567389]
+  ? "/Users/sakshibharambe/Documents/University fo Southern California/Web Technology/Assignment/Assignment 4/WeatherSearchApp/DerivedData/WeatherSearchApp/SourcePackages/checkouts/Alamofire/Source/Extensions/URLSessionConfiguration+Alamofire.swift"
+  : [1733808120, 688664930]
+  ? "/Users/sakshibharambe/Documents/University fo Southern California/Web Technology/Assignment/Assignment 4/WeatherSearchApp/DerivedData/WeatherSearchApp/SourcePackages/checkouts/Alamofire/Source/Features/AlamofireExtended.swift"
+  : [1733808120, 688798304]
+  ? "/Users/sakshibharambe/Documents/University fo Southern California/Web Technology/Assignment/Assignment 4/WeatherSearchApp/DerivedData/WeatherSearchApp/SourcePackages/checkouts/Alamofire/Source/Features/AuthenticationInterceptor.swift"
+  : [1733808120, 688901303]
+  ? "/Users/sakshibharambe/Documents/University fo Southern California/Web Technology/Assignment/Assignment 4/WeatherSearchApp/DerivedData/WeatherSearchApp/SourcePackages/checkouts/Alamofire/Source/Features/CachedResponseHandler.swift"
+  : [1733808120, 689019259]
+  ? "/Users/sakshibharambe/Documents/University fo Southern California/Web Technology/Assignment/Assignment 4/WeatherSearchApp/DerivedData/WeatherSearchApp/SourcePackages/checkouts/Alamofire/Source/Features/Combine.swift"
+  : [1733808120, 689121550]
+  ? "/Users/sakshibharambe/Documents/University fo Southern California/Web Technology/Assignment/Assignment 4/WeatherSearchApp/DerivedData/WeatherSearchApp/SourcePackages/checkouts/Alamofire/Source/Features/Concurrency.swift"
+  : [1733808120, 689243840]
+  ? "/Users/sakshibharambe/Documents/University fo Southern California/Web Technology/Assignment/Assignment 4/WeatherSearchApp/DerivedData/WeatherSearchApp/SourcePackages/checkouts/Alamofire/Source/Features/EventMonitor.swift"
+  : [1733808120, 689357797]
+  ? "/Users/sakshibharambe/Documents/University fo Southern California/Web Technology/Assignment/Assignment 4/WeatherSearchApp/DerivedData/WeatherSearchApp/SourcePackages/checkouts/Alamofire/Source/Features/MultipartFormData.swift"
+  : [1733808120, 689465005]
+  ? "/Users/sakshibharambe/Documents/University fo Southern California/Web Technology/Assignment/Assignment 4/WeatherSearchApp/DerivedData/WeatherSearchApp/SourcePackages/checkouts/Alamofire/Source/Features/MultipartUpload.swift"
+  : [1733808120, 689558212]
+  ? "/Users/sakshibharambe/Documents/University fo Southern California/Web Technology/Assignment/Assignment 4/WeatherSearchApp/DerivedData/WeatherSearchApp/SourcePackages/checkouts/Alamofire/Source/Features/NetworkReachabilityManager.swift"
+  : [1733808120, 689688877]
+  ? "/Users/sakshibharambe/Documents/University fo Southern California/Web Technology/Assignment/Assignment 4/WeatherSearchApp/DerivedData/WeatherSearchApp/SourcePackages/checkouts/Alamofire/Source/Features/RedirectHandler.swift"
+  : [1733808120, 689778126]
+  ? "/Users/sakshibharambe/Documents/University fo Southern California/Web Technology/Assignment/Assignment 4/WeatherSearchApp/DerivedData/WeatherSearchApp/SourcePackages/checkouts/Alamofire/Source/Features/RequestCompression.swift"
+  : [1733808120, 689873500]
+  ? "/Users/sakshibharambe/Documents/University fo Southern California/Web Technology/Assignment/Assignment 4/WeatherSearchApp/DerivedData/WeatherSearchApp/SourcePackages/checkouts/Alamofire/Source/Features/RequestInterceptor.swift"
+  : [1733808120, 690028082]
+  ? "/Users/sakshibharambe/Documents/University fo Southern California/Web Technology/Assignment/Assignment 4/WeatherSearchApp/DerivedData/WeatherSearchApp/SourcePackages/checkouts/Alamofire/Source/Features/ResponseSerialization.swift"
+  : [1733808120, 690125247]
+  ? "/Users/sakshibharambe/Documents/University fo Southern California/Web Technology/Assignment/Assignment 4/WeatherSearchApp/DerivedData/WeatherSearchApp/SourcePackages/checkouts/Alamofire/Source/Features/RetryPolicy.swift"
+  : [1733808120, 690232621]
+  ? "/Users/sakshibharambe/Documents/University fo Southern California/Web Technology/Assignment/Assignment 4/WeatherSearchApp/DerivedData/WeatherSearchApp/SourcePackages/checkouts/Alamofire/Source/Features/ServerTrustEvaluation.swift"
+  : [1733808120, 690370453]
+  ? "/Users/sakshibharambe/Documents/University fo Southern California/Web Technology/Assignment/Assignment 4/WeatherSearchApp/DerivedData/WeatherSearchApp/SourcePackages/checkouts/Alamofire/Source/Features/URLEncodedFormEncoder.swift"
+  : [1733808120, 690510576]
+  ? "/Users/sakshibharambe/Documents/University fo Southern California/Web Technology/Assignment/Assignment 4/WeatherSearchApp/DerivedData/WeatherSearchApp/SourcePackages/checkouts/Alamofire/Source/Features/Validation.swift"
+  : [1733808120, 690698116]

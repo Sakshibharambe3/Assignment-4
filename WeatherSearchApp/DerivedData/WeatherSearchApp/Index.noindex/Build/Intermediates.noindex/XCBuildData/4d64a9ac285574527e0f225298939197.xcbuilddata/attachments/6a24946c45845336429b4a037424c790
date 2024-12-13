@@ -1,0 +1,12 @@
+{
+  "" : {
+    "dependencies" : "/Users/sakshibharambe/Documents/University fo Southern California/Web Technology/Assignment/Assignment 4/WeatherSearchApp/DerivedData/WeatherSearchApp/Index.noindex/Build/Intermediates.noindex/SwiftSpinner.build/Debug-iphoneos/SwiftSpinner.build/Objects-normal/arm64/SwiftSpinner-master.d",
+    "diagnostics" : "/Users/sakshibharambe/Documents/University fo Southern California/Web Technology/Assignment/Assignment 4/WeatherSearchApp/DerivedData/WeatherSearchApp/Index.noindex/Build/Intermediates.noindex/SwiftSpinner.build/Debug-iphoneos/SwiftSpinner.build/Objects-normal/arm64/SwiftSpinner-master.dia",
+    "emit-module-dependencies" : "/Users/sakshibharambe/Documents/University fo Southern California/Web Technology/Assignment/Assignment 4/WeatherSearchApp/DerivedData/WeatherSearchApp/Index.noindex/Build/Intermediates.noindex/SwiftSpinner.build/Debug-iphoneos/SwiftSpinner.build/Objects-normal/arm64/SwiftSpinner-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/sakshibharambe/Documents/University fo Southern California/Web Technology/Assignment/Assignment 4/WeatherSearchApp/DerivedData/WeatherSearchApp/Index.noindex/Build/Intermediates.noindex/SwiftSpinner.build/Debug-iphoneos/SwiftSpinner.build/Objects-normal/arm64/SwiftSpinner-master-emit-module.dia",
+    "swift-dependencies" : "/Users/sakshibharambe/Documents/University fo Southern California/Web Technology/Assignment/Assignment 4/WeatherSearchApp/DerivedData/WeatherSearchApp/Index.noindex/Build/Intermediates.noindex/SwiftSpinner.build/Debug-iphoneos/SwiftSpinner.build/Objects-normal/arm64/SwiftSpinner-master.swiftdeps"
+  },
+  "/Users/sakshibharambe/Documents/University fo Southern California/Web Technology/Assignment/Assignment 4/WeatherSearchApp/DerivedData/WeatherSearchApp/SourcePackages/checkouts/SwiftSpinner/Sources/SwiftSpinner/SwiftSpinner.swift" : {
+
+  }
+}

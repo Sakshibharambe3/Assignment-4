@@ -1,0 +1,7 @@
+version: "Apple Swift version 6.0.2 (swiftlang-6.0.2.1.2 clang-1600.0.26.4)"
+options: "e8ece25f60b58eefd4578a5ef75707912d57eeda86820dc7f3618dd1923601b7"
+build_start_time: [1734062291, 871762000]
+build_end_time: [1734062292, 310184000]
+inputs:
+  ? "/Users/sakshibharambe/Documents/University fo Southern California/Web Technology/Assignment/Assignment 4/WeatherSearchApp/DerivedData/WeatherSearchApp/SourcePackages/checkouts/SwiftSpinner/Sources/SwiftSpinner/SwiftSpinner.swift"
+  : [1733808120, 294753722]

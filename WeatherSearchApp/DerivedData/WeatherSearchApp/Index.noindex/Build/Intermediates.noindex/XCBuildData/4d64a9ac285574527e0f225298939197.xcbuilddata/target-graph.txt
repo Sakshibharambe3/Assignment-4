@@ -1,0 +1,53 @@
+Target dependency graph (24 targets)
+Target 'WeatherSearchApp' in project 'WeatherSearchApp'
+➜ Explicit dependency on target 'Alamofire' in project 'Alamofire'
+➜ Explicit dependency on target 'Toast' in project 'Toast'
+➜ Explicit dependency on target 'SwiftSpinner' in project 'SwiftSpinner'
+➜ Explicit dependency on target 'SwiftyJSON' in project 'SwiftyJSON'
+Target 'SwiftyJSON' in project 'SwiftyJSON'
+➜ Explicit dependency on target 'SwiftyJSON' in project 'SwiftyJSON'
+➜ Explicit dependency on target 'SwiftyJSON_SwiftyJSON' in project 'SwiftyJSON'
+Target 'SwiftyJSON' in project 'SwiftyJSON'
+➜ Explicit dependency on target 'SwiftyJSON_SwiftyJSON' in project 'SwiftyJSON'
+Target 'SwiftyJSON_SwiftyJSON' in project 'SwiftyJSON' (no dependencies)
+Target 'SwiftSpinner' in project 'SwiftSpinner'
+➜ Explicit dependency on target 'SwiftSpinner' in project 'SwiftSpinner'
+Target 'SwiftSpinner' in project 'SwiftSpinner' (no dependencies)
+Target 'Toast' in project 'Toast'
+➜ Explicit dependency on target 'Toast' in project 'Toast'
+➜ Explicit dependency on target 'Toast_Toast' in project 'Toast'
+Target 'Toast' in project 'Toast'
+➜ Explicit dependency on target 'Toast_Toast' in project 'Toast'
+Target 'Toast_Toast' in project 'Toast' (no dependencies)
+Target 'Alamofire' in project 'Alamofire'
+➜ Explicit dependency on target 'Alamofire' in project 'Alamofire'
+➜ Explicit dependency on target 'Alamofire_Alamofire' in project 'Alamofire'
+Target 'Alamofire' in project 'Alamofire'
+➜ Explicit dependency on target 'Alamofire_Alamofire' in project 'Alamofire'
+Target 'Alamofire_Alamofire' in project 'Alamofire' (no dependencies)
+Target 'WeatherSearchApp' in project 'WeatherSearchApp'
+➜ Explicit dependency on target 'Alamofire' in project 'Alamofire'
+➜ Explicit dependency on target 'Toast' in project 'Toast'
+➜ Explicit dependency on target 'SwiftSpinner' in project 'SwiftSpinner'
+➜ Explicit dependency on target 'SwiftyJSON' in project 'SwiftyJSON'
+Target 'SwiftyJSON' in project 'SwiftyJSON'
+➜ Explicit dependency on target 'SwiftyJSON' in project 'SwiftyJSON'
+➜ Explicit dependency on target 'SwiftyJSON_SwiftyJSON' in project 'SwiftyJSON'
+Target 'SwiftyJSON' in project 'SwiftyJSON'
+➜ Explicit dependency on target 'SwiftyJSON_SwiftyJSON' in project 'SwiftyJSON'
+Target 'SwiftyJSON_SwiftyJSON' in project 'SwiftyJSON' (no dependencies)
+Target 'SwiftSpinner' in project 'SwiftSpinner'
+➜ Explicit dependency on target 'SwiftSpinner' in project 'SwiftSpinner'
+Target 'SwiftSpinner' in project 'SwiftSpinner' (no dependencies)
+Target 'Toast' in project 'Toast'
+➜ Explicit dependency on target 'Toast' in project 'Toast'
+➜ Explicit dependency on target 'Toast_Toast' in project 'Toast'
+Target 'Toast' in project 'Toast'
+➜ Explicit dependency on target 'Toast_Toast' in project 'Toast'
+Target 'Toast_Toast' in project 'Toast' (no dependencies)
+Target 'Alamofire' in project 'Alamofire'
+➜ Explicit dependency on target 'Alamofire' in project 'Alamofire'
+➜ Explicit dependency on target 'Alamofire_Alamofire' in project 'Alamofire'
+Target 'Alamofire' in project 'Alamofire'
+➜ Explicit dependency on target 'Alamofire_Alamofire' in project 'Alamofire'
+Target 'Alamofire_Alamofire' in project 'Alamofire' (no dependencies)

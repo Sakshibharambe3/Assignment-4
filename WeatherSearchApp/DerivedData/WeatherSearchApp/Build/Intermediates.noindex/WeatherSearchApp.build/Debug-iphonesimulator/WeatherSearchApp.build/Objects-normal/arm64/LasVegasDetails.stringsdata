@@ -1,0 +1,80 @@
+{
+  "source": "/Users/sakshibharambe/Documents/University fo Southern California/Web Technology/Assignment/Assignment 4/WeatherSearchApp/WeatherSearchApp/Views/WeatherDetails/LasVegasDetails.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Fetching Weather Details for Las Vegas...",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 36
+        }
+      },
+      {
+        "comment": "",
+        "key": "Fetching Weather Data...",
+        "location": {
+          "startingColumn": 42,
+          "startingLine": 109
+        }
+      },
+      {
+        "comment": "",
+        "key": "Las Vegas",
+        "location": {
+          "startingColumn": 50,
+          "startingLine": 59
+        }
+      },
+      {
+        "comment": "",
+        "key": "Weather",
+        "location": {
+          "startingColumn": 54,
+          "startingLine": 53
+        }
+      },
+      {
+        "comment": "",
+        "key": "46°F",
+        "location": {
+          "startingColumn": 46,
+          "startingLine": 121
+        }
+      },
+      {
+        "comment": "",
+        "key": "Cloudy",
+        "location": {
+          "startingColumn": 46,
+          "startingLine": 125
+        }
+      },
+      {
+        "comment": "",
+        "key": "Las Vegas",
+        "location": {
+          "startingColumn": 46,
+          "startingLine": 129
+        }
+      },
+      {
+        "comment": "",
+        "key": "Las Vegas was Added to the Favorites List",
+        "location": {
+          "startingColumn": 64,
+          "startingLine": 167
+        }
+      },
+      {
+        "comment": "",
+        "key": "Las Vegas was Removed from the Favorites List",
+        "location": {
+          "startingColumn": 110,
+          "startingLine": 167
+        }
+      }
+    ]
+  },
+  "version": 1
+}

@@ -1,0 +1,56 @@
+{
+  "source": "/Users/sakshibharambe/Documents/University fo Southern California/Web Technology/Assignment/Assignment 4/WeatherSearchApp/WeatherSearchApp/Views/WeatherDetails/WeatherDetailsView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Los Angeles",
+        "location": {
+          "startingColumn": 42,
+          "startingLine": 232
+        }
+      },
+      {
+        "comment": "",
+        "key": "Weather",
+        "location": {
+          "startingColumn": 46,
+          "startingLine": 226
+        }
+      },
+      {
+        "comment": "",
+        "key": "Weather Data",
+        "location": {
+          "startingColumn": 46,
+          "startingLine": 298
+        }
+      },
+      {
+        "comment": "",
+        "key": "Precipitation: ",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 483
+        }
+      },
+      {
+        "comment": "",
+        "key": "Humidity: ",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 498
+        }
+      },
+      {
+        "comment": "",
+        "key": "Cloud Cover: ",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 513
+        }
+      }
+    ]
+  },
+  "version": 1
+}

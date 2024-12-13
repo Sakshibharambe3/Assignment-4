@@ -1,0 +1,48 @@
+{
+  "source": "/Users/sakshibharambe/Documents/University fo Southern California/Web Technology/Assignment/Assignment 4/WeatherSearchApp/WeatherSearchApp/WeatherView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Fetching Weather Details...",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 31
+        }
+      },
+      {
+        "comment": "",
+        "key": "Fetching Weather Data...",
+        "location": {
+          "startingColumn": 42,
+          "startingLine": 85
+        }
+      },
+      {
+        "comment": "",
+        "key": "62°F",
+        "location": {
+          "startingColumn": 46,
+          "startingLine": 97
+        }
+      },
+      {
+        "comment": "",
+        "key": "Cloudy",
+        "location": {
+          "startingColumn": 46,
+          "startingLine": 101
+        }
+      },
+      {
+        "comment": "",
+        "key": "Los Angeles",
+        "location": {
+          "startingColumn": 46,
+          "startingLine": 105
+        }
+      }
+    ]
+  },
+  "version": 1
+}

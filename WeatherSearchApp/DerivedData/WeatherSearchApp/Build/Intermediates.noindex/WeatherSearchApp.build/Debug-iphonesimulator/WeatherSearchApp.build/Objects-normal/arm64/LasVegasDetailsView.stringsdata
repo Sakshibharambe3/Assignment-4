@@ -1,0 +1,40 @@
+{
+  "source": "/Users/sakshibharambe/Documents/University fo Southern California/Web Technology/Assignment/Assignment 4/WeatherSearchApp/WeatherSearchApp/Views/WeatherDetails/LasVegasDetailsView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Las Vegas",
+        "location": {
+          "startingColumn": 42,
+          "startingLine": 31
+        }
+      },
+      {
+        "comment": "",
+        "key": "Weather",
+        "location": {
+          "startingColumn": 46,
+          "startingLine": 25
+        }
+      },
+      {
+        "comment": "",
+        "key": "Temperature Chart",
+        "location": {
+          "startingColumn": 46,
+          "startingLine": 72
+        }
+      },
+      {
+        "comment": "",
+        "key": "Gauge Chart",
+        "location": {
+          "startingColumn": 46,
+          "startingLine": 84
+        }
+      }
+    ]
+  },
+  "version": 1
+}
